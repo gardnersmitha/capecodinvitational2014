@@ -1,0 +1,39 @@
+body{
+	font-family: 'Merriweather', serif;
+}
+
+.btn{
+	background-image: linear-gradient(hsla(0,0%,100%,.2), hsla(0,0%,100%,0));
+}
+
+.btn-success{
+	background: #26B353;
+}
+
+
+.homepage{}
+
+	.homepage.container-fluid{
+		height:1024px;
+	  	background: url(img/harbor.jpg) no-repeat center center; 
+	  	-webkit-background-size: cover;
+	  	-moz-background-size: cover;
+	  	-o-background-size: cover;
+	  	background-size: cover;
+	  	overflow: hidden;
+	}
+
+	.homepage img.logo{
+		max-height:500px;
+	}
+
+	.homepage a.cta{
+		display: block;
+		width: 300px;
+	}
+
+.enter{}
+
+	.enter img.logo{
+		max-height:500px;
+	}
