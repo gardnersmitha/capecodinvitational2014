@@ -54,6 +54,7 @@ p.panel-body{
 	font-size: 1.5em;
 	font-weight: 300;
 	line-height: 1.4;
+	padding:0 0 20px 0;
 }
 
 /* Hompage Styles */
@@ -87,6 +88,16 @@ p.panel-body{
 		background: #fff;
 	}
 
+	.homepage .facebook{
+		color:#FFF;
+		padding: 20px 0;
+		background: #2D314E;
+	}
+
+	.homepage .fb-like-wrapper{
+		width:55px;
+		margin:40px auto;
+	}
 
 
 .enter{}
