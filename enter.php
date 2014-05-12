@@ -9,7 +9,7 @@
 			Fill out my <a href="https://austingardnersmith.wufoo.com/forms/m19ilpa612vzxqj">online form</a>.
 			</div>
 			
-			<!-- Wufoo Script -->
+			<!-- Wufoo Form Script -->
 			<script type="text/javascript">var m19ilpa612vzxqj;(function(d, t) {
 				var s = d.createElement(t), options = {
 				'userName':'austingardnersmith',
