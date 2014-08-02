@@ -32,7 +32,7 @@
 			</div>
 
 			<!-- Champions Row -->
-			<!-- <div class="row champions">
+			<div class="row champions">
 				<div class="col-xs-8 col-sm-6 col-md-6 col-lg-2 col-xs-offset-2 col-sm-offset-3 col-md-offset-3 col-lg-offset-5 icon-wrap">
 					<img src="img/trophy.png" class="img-responsive center-block" alt="Trophy Graphic">
 				</div>
@@ -51,7 +51,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 champs-wrap">
 					<img src="http://placekitten.com/1000/1000" class="img-responsive" alt="placeholder">
 				</div>
-			</div> -->
+			</div>
 
 		</div>
 
