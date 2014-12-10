@@ -4,11 +4,8 @@
 	<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xs-offset-3 col-sm-offset-3 col-md-offset-3 col-lg-offset-3">
 		<div class="row">
 			<img src="img/logo2014.png" class="img-responsive logo center-block" alt="Image">
-			
 
-			TITS
 
-			
 			<div id="wufoo-m19ilpa612vzxqj">
 			Fill out my <a href="https://austingardnersmith.wufoo.com/forms/m19ilpa612vzxqj">online form</a>.
 			</div>
