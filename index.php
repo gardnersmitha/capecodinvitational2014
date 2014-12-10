@@ -6,7 +6,7 @@
 				<img src="img/logo2014.png" class="img-responsive logo center-block" alt="2014 Logo">
 				<!-- <a href="enter.php" role="button" class="center-block cta btn btn-lg btn-success btn-block">Enter a Team</a> -->
 			</div>
-
+TITS
 			<!-- History Row -->
 			<div class="row history">
 				<div class="col-xs-8 col-sm-6 col-md-6 col-lg-2 col-xs-offset-2 col-sm-offset-3 col-md-offset-3 col-lg-offset-5 icon-wrap">
