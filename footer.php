@@ -39,5 +39,18 @@
 
 			</script>
 			<!-- End Google Analytics -->
+
+
+			<!-- Mailchimp -->
+			<script type="text/javascript">
+				var $mcGoal = {'settings':{'uuid':'cb1b115840f326e317df63f73','dc':'us6'}};
+				(function() {
+					 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+					sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+				})(); 
+			</script>
+			<!-- End Mailchimp -->
+
 	</body>
 </html>
